@@ -4,7 +4,7 @@ date: 2018-2-9 00:34:14
 ---
 
 
-<strong style="color:blue;">Agile Coaching & Consulting</strong> is the leading provider of Scrum and Agile coaching and organization transformational consulting services in Greater China, South-East Asia and North America since 2007, founded by one early Scrum pioneer, Bill Li (CST/MBA), in Shanghai, being the first Scrum Alliance REP and first member of Agile Alliance in Greater China.
+Agile Coaching & Consulting is the leading provider of Scrum and Agile coaching and organization transformational consulting services in Greater China, South-East Asia and North America since 2007, founded by one early Scrum pioneer, Bill Li (CST/MBA), in Shanghai, being the first Scrum Alliance REP and first member of Agile Alliance in Greater China.
 
 <div style="overflow: hidden;display:flex;">
 <img src="http://www.uperform.cn/wp-content/uploads/2017/06/IMG_0984-e1498182022231.jpg" style="float: left;width: 31.333%; height:100%; margin: 0 0% 1px; vertical-align: baseline;">
@@ -14,13 +14,13 @@ date: 2018-2-9 00:34:14
 
 Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MBA), Vernon Stinebaker (CST/ICF-PCC/CTC) and Jacky Shen (CST/CTC/CPCP), all our [core team members](http://www.uperform.cn/team/) are with extensive real-world experiences and very importantly, great coaching leadership and organizational insights into challenging agility transformation and innovative product development context. 
 
-<!-- (Visit our website in Chinese, 访问<span style="color:blue;">优普丰敏捷学院中文站</span>：[www.UPerform.CN](http://www.UPerform.CN))  -->
+(Visit our website in Chinese, 访问<span style="color:blue;">优普丰敏捷学院中文站</span>：[www.UPerform.CN](http://www.UPerform.CN))  
 
-<!-- We provide [Certified Scrum (CSM, CSPO, CSD, CAL etc.)](https://www.uperform.cn/recent-public-course/) in Chinese & English delivery in either public class or private onsite format, with full-range of extended learning programs including Lean-Startup, Design Thinking, LeSS, Kanban, Innovation, Agile Coaching, and Agile Boot-Camp.  -->
+We provide [Certified Scrum (CSM, CSPO, CSD, CAL etc.)](https://www.uperform.cn/recent-public-course/) in Chinese & English delivery in either public class or private onsite format, with full-range of extended learning programs including Lean-Startup, Design Thinking, LeSS, Kanban, Innovation, Agile Coaching, and Agile Boot-Camp.  
 
-<!-- For our current Certified Scrum public class schedule in English, please visit:  <http://certification.scrumalliance.org/organizations/3-8-uperform> -->
+For our current Certified Scrum public class schedule in English, please visit:  <https://certification.scrumalliance.org/organizations/3-8-uperform/courses/upcoming> 
 
-<!-- For class listing in Chinese display:  <http://www.UPerform.CN> -->
+For class listing in Chinese display:  <http://www.UPerform.CN> 
 
 <div style="">
 <img style="width: 40%;margin: 0 auto;" alt="scrum certifications" src="https://www.uperform.cn/wp-content/uploads/2019/01/SA-cert-2019-768x953.png"/>
@@ -35,7 +35,7 @@ Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MB
 * Certified Advanced Certified ScrumMaster / Advance Agile Coach (A-CSM, CSP-SM, A-CSPO, CSP-PO) 
 * Certified ScrumMaster(CSM)
 * Certified Product Owner(CSPO)
-* Certified Scrum Developer(CSD)
+* Certified Scrum Developer with XP practices(CSD)
 * Agile Foundation for Senior Management
 * Certified Agile Leadership (CAL)
 * Lean Kanban
@@ -43,7 +43,9 @@ Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MB
 * Management 3.0 Certified
 * Continuous Integration / CI / CD / DevOps
 
-<img style="width: 100%;margin: 0 auto; display: block;" alt="scrum certification level" src="https://www.uperform.cn/wp-content/uploads/2017/12/Scrum-Alliance-2018-Certifications-for-new-CSP-path.png"/>
+（Find more courses via <www.UPerform.CN>）
+
+<img style="width: 100%;margin: 0 auto; display: block;" alt="scrum certification level" src="https://www.uperform.cn/wp-content/uploads/2019/08/Scrum-Alliance-Certification-Path-20190830.png"/>
 
 
 ## Contact Us at
