@@ -12,9 +12,9 @@ Agile Coaching & Consulting is the leading provider of Scrum and Agile coaching 
 <img src="http://www.uperform.cn/wp-content/uploads/2017/06/avatar2-e1498182007221.jpg" style="float: left;width: 31.333%; height:100%; margin: 0 0% 1px;">
 </div>
 
-Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MBA), Vernon Stinebaker (CST/ICF-PCC/CTC) and Jacky Shen (CST/CTC/CPCP), all our [core team members](http://www.uperform.cn/team/) are with extensive real-world experiences and very importantly, great coaching leadership and organizational insights into challenging agility transformation and innovative product development context. 
+Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MBA), Vernon Stinebaker (CST/ICF-PCC/CTC) and [Jacky Shen](http://www.jackyshen.com) (CST/CTC/CPCP), all our [core team members](http://www.uperform.cn/team/) are with extensive real-world experiences and very importantly, great coaching leadership and organizational insights into challenging agility transformation and innovative product development context. 
 
-(Visit our website in Chinese, 访问<span style="color:blue;">优普丰敏捷学院中文站</span>：[www.UPerform.CN](http://www.UPerform.CN))  
+(Visit our website in Chinese, 访问<span style="color:blue;">优普丰敏捷学院中文站</span>：[www.UPerform.CN](http://www.UPerform.CN) ) 
 
 We provide [Certified Scrum (CSM, CSPO, CSD, CAL etc.)](https://www.uperform.cn/recent-public-course/) in Chinese & English delivery in either public class or private onsite format, with full-range of extended learning programs including Lean-Startup, Design Thinking, LeSS, Kanban, Innovation, Agile Coaching, and Agile Boot-Camp.  
 
@@ -43,7 +43,7 @@ For class listing in Chinese display:  <http://www.UPerform.CN>
 * Management 3.0 Certified
 * Continuous Integration / CI / CD / DevOps
 
-（Find more courses via <www.UPerform.CN>）
+（ Find more courses via <www.UPerform.CN> ）
 
 <img style="width: 100%;margin: 0 auto; display: block;" alt="scrum certification level" src="https://www.uperform.cn/wp-content/uploads/2019/08/Scrum-Alliance-Certification-Path-20190830.png"/>
 
