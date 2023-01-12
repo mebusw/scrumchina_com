@@ -2,7 +2,8 @@
 cover: //blog.ghost.org/content/images/2013/Nov/cover.png
 # cover: http://www.uperform.cn/wp-content/uploads/2017/09/7.jpg
 #logo: //blog.ghost.org/content/images/2013/Nov/bloglogo_1-1.png
-logo: http://www.uperform.cn/wp-content/uploads/2017/06/u2.png
+#logo: http://www.uperform.cn/wp-content/uploads/2017/06/u2.png
+logo: https://www.uperform.cn/wp-content/uploads/2021/05/UPerform-new-logo.png
 bio: '<a href="http://www.UPerform.CN">UPerform Agile Academy<a> is the leading provider of Scrum and Agile training, coaching and organization transformational consulting services in Greater China, South-East Asia and surrounding areas since 2007. '
 
 # Content
