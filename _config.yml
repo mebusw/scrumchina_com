@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 优普丰管理顾问Scrum培训及Agile敏捷项目管理
-subtitle:  Scrum Agile Training Consulting Coaching Certification In Greater China & around the World Since 2007
-description: UPerform is a registered education partner (REP) of Scrum Alliance in China since 2007 敏捷教练 Scrum中文认证 scrummaster 敏捷学习
+title: Scrum Agile Training Consulting Coaching Certification
+subtitle: In Greater China & around the World Since 2007
+description: UPerform is a registered education partner (REP) of Scrum Alliance in China since 2007 敏捷教练 Scrum中文认证 scrummaster 敏捷学习 优普丰咨询顾问
 author: Scrum Alliance UPerform
 email: service@scrumchina.com
 language: en-us
@@ -79,8 +79,8 @@ theme: casper  #landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@e.coding.net:uperform/scrumchina/scrumchina-site.git 
-  branch: master
+  repo: git@github.com:mebusw/scrumchina_com.git
+  branch: gh_pages
 
 sitemap:
   path: sitemap.xml

@@ -82,7 +82,7 @@ For class listing in Chinese display:  <http://www.UPerform.CN>
 
 UPerform－优普丰是中国地区首家国际Scrum Alliance联盟REP(合作伙伴)及Agile Alliance联盟企业会员，中国敏捷运动的核心推动团队。创立于2007年，并将Scrum创始人Ken Schwaber的扛鼎之作《Scrum敏捷项目管理》一书翻译引进中国。目前是华语地区拥有Scrum联盟认证体系导师级Scrum认证者CST/CTC最多的机构，也是目前亚洲地区唯一获得2017新版CSP成长路径及A-CSM认证的机构，团队翻译和撰写了10多本著作。
 
-作为市场领头雁，专注于通过教练指导及顾问咨询服务，致力于卓有成效的Scrum、敏捷项目管理在大中华地区的推广及实践应用，并持续回馈社区。包括CSM认证/CSPO认证/CSD认证/A-CSM认证、CI/TDD/DevOps、进阶敏捷教练、精益看板、极限编程等，帮助诸多客户在领导力、组织管理、团队能力建设、项目管理、工程技术实践等全方面实施敏捷转型，“催化蜕变”。
+作为市场领头雁，优普丰管理顾问Scrum培训及Agile敏捷项目管理机构，专注于通过教练指导及顾问咨询服务，致力于卓有成效的Scrum、敏捷项目管理在大中华地区的推广及实践应用，并持续回馈社区。包括CSM认证/CSPO认证/CSD认证/A-CSM认证、CI/TDD/DevOps、进阶敏捷教练、精益看板、极限编程等，帮助诸多客户在领导力、组织管理、团队能力建设、项目管理、工程技术实践等全方面实施敏捷转型，“催化蜕变”。
 
 2008年在上海参与召集了首次敏捷社区聚会，带头吹响了中国敏捷推广的集结号。十年来，得到国际多位敏捷大师的支持和眷顾，包括Ken Schwaber、Mike Cohn、Lyssa Adkins、Michael Spayd、Ken Rubin、Jurgen Appelo、Pete Deemer、Peter Borsella 、Vernon Stinebaker,、Chris Sims等，发展出大量原创敏捷内容，包括理论哲学、领导力培养、现场实践、工具方法等。
 
