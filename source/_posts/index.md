@@ -24,7 +24,7 @@ For class listing in Chinese display:  <http://www.UPerform.CN>
 
 <div style="">
 <img style="width: 40%;margin: 0 auto;" alt="scrum certifications" src="https://www.uperform.cn/wp-content/uploads/2019/01/SA-cert-2019-768x953.png"/>
-<img style="width: 40%;margin: 0 auto;" src="https://apps.coachfederation.org/eweb/OTI/Common/Images/header_logo.jpg">
+<img style="width: 40%;margin: 0 auto;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F70bb4a2d-7616-4b10-b152-0d998afafd21&psig=AOvVaw0ACrJD38MOUZdDA20B-GY3&ust=1675135238132000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCKCwzZir7vwCFQAAAAAdAAAAABAE">
 </div>
 
 
@@ -45,7 +45,7 @@ For class listing in Chinese display:  <http://www.UPerform.CN>
 
 （ Find more courses via <www.UPerform.CN> ）
 
-<img style="width: 100%;margin: 0 auto; display: block;" alt="scrum certification level" src="https://www.uperform.cn/wp-content/uploads/2019/08/Scrum-Alliance-Certification-Path-20190830.png"/>
+<img style="width: 100%;margin: 0 auto; display: block;" alt="scrum certification level" src="https://www.uperform.cn/wp-content/uploads/2021/09/New-CSP-Path-of-Scrum-Alliance-Certifications.20210913.png"/>
 
 
 ## Contact Us at
