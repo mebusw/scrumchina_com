@@ -1,9 +1,9 @@
 ---
-title: Pay to register for A-CSM program
+title: Pay to register for advanced training program
 date: 2017-10-8 00:34:14 
 ---
 
-**UPerform A-CSM / A-CSPO Program of 1 Person - USD 2310**
+**UPerform A-CSM / A-CSPO / CSP-SM Program of 1 Person - USD 2310**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
