@@ -10,7 +10,7 @@ UPerform AI & Agile Coach Consulting is the leading provider of Scrum and Agile 
 <img src="https://www.uperform.cn/wp-content/uploads/2017/06/IMG_0984-e1498182022231.jpg" style="float: left;width: 25%; height:100%; margin: 0 0% 1px; vertical-align: baseline;">
 <img src="https://www.uperform.cn/wp-content/uploads/2017/06/DSC_4870-1-e1498182015257.jpg" style="float: left;width: 25%; height:100%; margin: 0 0% 1px; vertical-align: baseline;">
 <img src="https://www.uperform.cn/wp-content/uploads/2017/06/avatar2-e1498182007221.jpg" style="float: left;width: 25%; height:100%; margin: 0 0% 1px; vertical-align: baseline;">
-<img src="https://www.uperform.cn/wp-content/uploads/2025/04/Brenda-长-200x300-1-e1754790989455.jpg" style="float: left;width: 25%; height:100%; margin: 0 0% 1px;">
+<img src="https://www.uperform.cn/wp-content/uploads/2025/04/Brenda-长-200x300-1-e1754790989455.jpg" style="float: left;width: 22.7%; height:100%; margin: 0 0% 1px;">
 </div>
 
 Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MBA), Vernon Stinebaker (CST/ICF-PCC/CTC), Brenda Zhang (CTC/CSAT), and [Jacky Shen](http://www.jackyshen.com) (CST/CTC/ICF-PCC), all our [core team members](http://www.uperform.cn/team/) are with extensive real-world experiences and very importantly, great coaching leadership and organizational insights into challenging agility transformation and innovative product development context. 
