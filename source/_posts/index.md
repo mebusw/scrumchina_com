@@ -17,13 +17,13 @@ Supported by well-recognized Agile Coaches and mentors including Bill Li (CST/MB
 
 (Visit our website in Chinese, 访问<span style="color:blue;">优普丰AI敏捷咨询培训机构中文站</span>：[www.UPerform.CN](https://www.UPerform.CN) ) 
 
-We provide [Certified Scrum (CSM, CSPO, CSD, CAL etc.)](https://www.uperform.cn/recent-public-course/) in Chinese & English delivery in either public class or private onsite format, with full-range of extended learning programs including Lean-Startup, Design Thinking, LeSS, Kanban, Innovation, Agile Coaching, and Agile Boot-Camp.  
+We provide [Certified Scrum Courses (CSM, CSPO, CSD, CAL etc.)](https://www.uperform.cn/recent-public-course/) and other Agile and AI course in Chinese & English delivery in either public class or private onsite format, with full-range of extended learning programs including Lean-Startup, Design Thinking, SAFe, LeSS, Kanban, Innovation, Agile Coaching, and Agile Boot-Camp.  
 
-For our current Certified Scrum public class schedule in English, please visit:  <https://certification.scrumalliance.org/organizations/3-8-uperform/courses/upcoming> 
+For our current public class schedule in English, please visit:  <https://certification.scrumalliance.org/organizations/3-8-uperform/courses/upcoming> 
 
-<div style="">
+<!-- <div style="">
 <img style="width: 40%;margin: 0 auto;" alt="scrum certifications" src="https://www.uperform.cn/wp-content/uploads/2019/01/SA-cert-2019-768x953.png"/>
-</div>
+</div> -->
 
 
 ## List of Services
@@ -48,20 +48,16 @@ For our current Certified Scrum public class schedule in English, please visit: 
 <img style="width: 100%;margin: 0 auto; display: block;" alt="scrum certification level" src="https://www.uperform.cn/wp-content/uploads/2024/07/Scrum-Alliance-Certification-Paths-2024-07-2048x1635.png"/>
 
 
-## Contact Us at
+## Contact Us
 
 **Email**:  <a href="mailto:Service@scrumchina.com">Service@scrumchina.com</a>
-**Tel**: +86-21-63809913
 **China Office**: Room 2J, Building #2, 33 Leshan Road, Shanghai, China
+**Chine Tel**: +86-21-63809913
 **Canada Office**: 233 West 1st St, North Vancouver, BC, Canada
+**Canada Tel**: +1 (604) 568-9682
 
-<br/>
 
 ## "Think Different"
-
-<!-- <div style="margin: 0 auto; display: block;">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FProjManager%2Fvideos%2F1393929154039503%2F&show_text=0&width=560" width="100%" height="315px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div> -->
 
 
 **Our Passion**: to promote Scrum and contribute in building great Agility in VUCA era with positive social and economic impact
@@ -81,15 +77,15 @@ For our current Certified Scrum public class schedule in English, please visit: 
 
 ## 关于优普丰 AI 敏捷咨询培训机构
 
-优普丰敏捷咨询是一家为企业提供AIGC人工智能、AI提示词工程和智能体落地、敏捷咨询、敏捷培训与国际认证、数字化转型教育、业务敏捷组织转型、业务创新敏捷数字化管理的公司，帮助企业在经济快速变化和不确定环境的VUCA时代打造高响应力的催化型组织。也提供企业级敏捷和DevOps落地咨询。作为中国领先的Scrum认证及敏捷培训服务机构，2007年优普丰将Scrum认证培训和敏捷社区活动引入中国，影响达10万人。
+优普丰敏捷咨询是一家为企业提供AIGC人工智能、AI提示词工程和智能体落地、敏捷咨询、敏捷培训与国际认证、数字化转型教育、业务敏捷组织转型、业务创新敏捷数字化管理的公司，帮助企业在经济快速变化和不确定环境的VUCA时代打造高响应力的催化型组织。也提供企业级敏捷和DevOps落地咨询。作为中国领先的Scrum认证及敏捷培训服务机构，2007年优普丰机构将Scrum认证培训和敏捷社区活动引入中国，影响达10万人。
 
-作为市场领头雁，优普丰管理顾问Scrum培训及Agile敏捷项目管理机构，专注于通过教练指导及顾问咨询服务，致力于卓有成效的Scrum、敏捷项目管理在大中华地区的推广及实践应用，并持续回馈社区。包括CSM认证/CSPO认证/CSD认证/A-CSM认证、CI/TDD/DevOps、进阶敏捷教练、精益看板、极限编程等，帮助诸多客户在领导力、组织管理、团队能力建设、项目管理、工程技术实践等全方面实施敏捷转型，“催化蜕变”。
+作为市场领头雁，优普丰管理顾问Scrum培训及Agile敏捷项目管理机构，专注于通过教练指导及顾问咨询服务，致力于卓有成效的Scrum、敏捷项目管理在大中华地区的推广及实践应用，并持续回馈社区。包括CSM认证/CSPO认证/CSD认证/A-CSM认证、CI/CD/TDD/DevOps、进阶敏捷教练、精益看板、极限编程XP等，帮助诸多客户在领导力、组织管理、团队能力建设、项目管理、工程技术实践等全方面实施敏捷转型，“催化蜕变”，实施规模化敏捷LeSS和SAFe等方法。
 
 2008年在上海参与召集了首次RSG金额敏捷社区聚会，带头吹响了中国敏捷推广的集结号。十年来，得到国际多位敏捷大师的支持和眷顾，包括Ken Schwaber、Mike Cohn、Lyssa Adkins、Michael Spayd、Ken Rubin、Jurgen Appelo、Pete Deemer、Peter Borsella 、Vernon Stinebaker,、Chris Sims等，发展出大量原创敏捷内容，包括理论哲学、领导力培养、现场实践、工具方法等。
 
 
-## 敏捷开发思想与Scrum精髓入门
+## 敏捷开发思想与Scrum精髓简介
 
 全球经济已经进入VUCA（Volatile, Uncertain, Complex, Ambiguous）时代，充满变化和不确定性，以AlphaGo为代表的人工智能等技术正在加速改变这个世界。响应快速变化的唯一方法就是拥抱敏捷思想，帮助组织通过领导力变革和数字化转型，加速反馈闭环速度，从而破解复杂性和不确定性，建立起低成本响应变化的能力，以达致更好的效果，方可立于不败之地。
 
-Scrum不可思议地将"协作与快乐"与"商业目标"结合在一起！最初Scrum是为了管理与开发复杂产品而发展出来的。从90年代早期开始，Scrum已经在全球范围内得到广泛应用，涉及多团队规模化进行市场研究、举办活动、交互功能网络、自动驾驶汽车、云服务和软硬件产品开发、学校、政府运作、市场、管理组织的运行、组织变革设计以及个人的日常生活中。Scrum 框架基于试验性过程控制理论，借鉴了精益思想、时间盒、模块化设计等，并完整地体现了敏捷宣言和敏捷原则。Scrum 采用一种迭代、增量式的方法来优化对未来的预测和管理风险，关注“最短时间内交付最大客户价值”,建立组织响应变化的敏捷能力，从而达致更好的效果。Scrum框架包括3个角色、3个工件、5个事件、5个价值观。在这个框架中，整个过程由若干个短的迭代周期(时间盒)组成，称为Sprint，每个Sprint的长度须小于4周，目的是将风险和变动成本控制在一个月内，同时增强可预测性。使用产品待办列表来管理产品和服务的需求，它是一个按照价值排序的待办列表。每个迭代中，开发团队从产品待办列表中按照产品负责人给出的排序挑选工作。挑选的需求在Sprint计划会议上经过讨论、分析和估算得到相应的Sprint目标和交付计划，我们称它为Sprint Backlog。团队每天自组织召开每日Scrum站会。在每个Sprint结束时，Scrum团队将邀请利益干系人/客户参加评审潜在可交付的产品增量并予以即时反馈，然后进行回顾会议以检视和调整协作沟通等工作方式。更多阅读Scrum Guide...
+Scrum不可思议地将"协作与快乐"与"商业目标"结合在一起！最初Scrum是为了管理与开发复杂产品而发展出来的。从90年代早期开始，Scrum已经在全球范围内得到广泛应用，涉及多团队规模化进行市场研究、举办活动、交互功能网络、自动驾驶汽车、云服务和软硬件产品开发、学校、政府运作、市场、管理组织的运行、组织变革设计以及个人的日常生活中。Scrum 框架基于试验性过程控制理论，借鉴了精益思想、时间盒、模块化设计等，并完整地体现了敏捷宣言和敏捷原则。Scrum 采用一种迭代、增量式的方法来优化对未来的预测和管理风险，关注“最短时间内交付最大客户价值”,建立组织响应变化的敏捷能力，从而达致更好的效果。Scrum框架包括3个角色、3个工件、5个事件、5个价值观。在这个框架中，整个过程由若干个短的迭代周期(时间盒)组成，称为Sprint，每个Sprint的长度须小于4周，目的是将风险和变动成本控制在一个月内，同时增强可预测性。使用产品待办列表来管理产品和服务的需求，它是一个按照价值排序的待办列表。每个迭代中，开发团队从产品待办列表中按照产品负责人给出的排序挑选工作。挑选的需求在Sprint计划会议上经过讨论、分析和估算得到相应的Sprint目标和交付计划，我们称它为Sprint Backlog。团队每天自组织召开每日Scrum站会。在每个Sprint结束时，Scrum团队将邀请利益干系人/客户参加评审潜在可交付的产品增量并予以即时反馈，然后进行回顾会议以检视和调整协作沟通等工作方式。
