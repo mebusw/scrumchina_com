@@ -50,7 +50,7 @@ For our current public class schedule in English, please visit:  <https://certif
 
 ## Contact Us
 
-**Email**:  <a href="mailto:Service@scrumchina.com">Service@scrumchina.com</a>
+**Email**:  <a href="mailto:Service@uperform.cn">Service@uperform.cn</a>
 **China Office**: Room 2J, Building #2, 33 Leshan Road, Shanghai, China
 **Chine Tel**: +86-21-63809913
 **Canada Office**: 233 West 1st St, North Vancouver, BC, Canada
